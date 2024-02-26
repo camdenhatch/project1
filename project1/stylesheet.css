@@ -1,11 +1,17 @@
+:root{
+    --sixty: #F5EFDF;
+    --thirty: #111013;
+    --ten: #8CC92D;
+}
+
 .primaryColor{
-    background-color: #F5EFDF;
+    background-color: var(--sixty);
 }
 
 .secondaryColor{
-    background-color: #111013;
+    background-color: var(--thirty);
 }
 
 .accentColor {
-    background-color: #8CC92D;
+    background-color: var(--ten);
 }
