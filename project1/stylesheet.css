@@ -18,6 +18,36 @@
     background-color: var(--ten);
 }
 
+.primaryText{
+    color: var(--sixty);
+}
+
+.secondaryText {
+    color: var(--thirty);
+}
+
+.accentText {
+    color: var(--ten);
+}
+
+.primaryBorder {
+    border-color: var(--sixty);
+    border-width: 2px;
+    border-radius: 7px;
+}
+
+.secondaryBorder {
+    border-color: var(--thirty);
+    border-width: 2px;
+    border-radius: 7px;
+}
+
+.accentBorder {
+    border-color: var(--ten);
+    border-width: 2px;
+    border-radius: 7px;
+}
+
 
 /* navbar shrink stuff given structure by a response to this
 prompt in chat GPT: 
